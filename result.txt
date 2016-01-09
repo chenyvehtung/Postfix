@@ -1,0 +1,31 @@
+OperNum	Time(ms)	Recursion
+1000	26.61	No
+1000	15.79	Yes
+2000	26.25	No
+2000	26.29	Yes
+3000	39.46	No
+3000	39.37	Yes
+4000	52.96	No
+4000	52.48	Yes
+5000	66.51	No
+5000	67.51	Yes
+6000	81.15	No
+6000	80.95	Yes
+7000	92.39	No
+7000	93.06	Yes
+8000	105.72	No
+8000	105.14	Yes
+9000	118.11	No
+9000	120.02	Yes
+10000	131.3	No
+10000	132.86	Yes
+11000	260.73	No
+java.lang.StackOverflowError, from parser with recursion, strNum=11000
+12000	317.22	No
+java.lang.StackOverflowError, from parser with recursion, strNum=12000
+13000	342.88	No
+java.lang.StackOverflowError, from parser with recursion, strNum=13000
+14000	370.03	No
+java.lang.StackOverflowError, from parser with recursion, strNum=14000
+15000	382.53	No
+java.lang.StackOverflowError, from parser with recursion, strNum=15000
