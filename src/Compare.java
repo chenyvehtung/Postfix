@@ -114,7 +114,7 @@ class CreateInfix {
  * 得到的结果保存在result.txt文件中。
  * @author Donald
  * @see ParserWithRec
- * @see ParseNoRec
+ * @see ParserNoRec
  * @see CreateInfix
  */
 public class Compare {
